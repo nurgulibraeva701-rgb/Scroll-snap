@@ -1,49 +1,47 @@
-Scroll Snap
+##Scroll Snap
 
 A simple web project demonstrating CSS Scroll Snap for creating smooth and structured scrolling between sections of a webpage.
 
-Live Demo
+##Live Demo
 
 View the website
 
-About the Project
+##About the Project
 
 This project was created to practice modern CSS scrolling techniques.
 
 The main idea is to make scrolling more controlled and visually organized. Instead of stopping at random positions, the page can automatically align sections when the user scrolls.
 
-Technologies
+##Technologies
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-CSS Scroll Snap
+- CSS Scroll Snap
 
-GitHub Pages
+## Features
 
- Features
+- Smooth and structured scrolling
 
-Smooth and structured scrolling
+- Full-page section navigation
 
-Full-page section navigation
+- Scroll Snap behavior
 
-Scroll Snap behavior
+- Simple and responsive layout
 
-Simple and responsive layout
+- Works directly in a web browser
 
-Works directly in a web browser
+- Hosted using GitHub Pages
 
-Hosted using GitHub Pages
-
- Project Structure
+## Project Structure
 
 Scroll-snap/
 │
 ├── index.html
 └── README.md
 
- How to Run
+## How to Run
 
 Clone the repository:
 
