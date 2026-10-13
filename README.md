@@ -4,7 +4,7 @@ A simple web project demonstrating CSS Scroll Snap for creating smooth and struc
 
 ## Live Demo
 
-View the website
+https://nurgulibraeva701-rgb.github.io/Scroll-snap/
 
 ## About the Project
 
